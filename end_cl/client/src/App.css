@@ -1,0 +1,49 @@
+.image-height{
+  width: 100vw;
+  height: 20vw;
+  object-fit: cover;
+}
+.middle-box{
+  display: flex;
+  width: 100vw;
+  height: 25vw;
+}
+.learn-more-1{
+  background-color: white;
+  color: black;
+  border-radius: 2vw;
+  padding: 0.8vw;
+}
+.learn-more-1:hover{
+  background-color: rgb(189, 186, 186);
+}
+.learn-more-2{
+  background-color: rgb(26, 128, 165);
+  color: white;
+  border-radius: 2vw;
+  padding: 0.8vw;
+}
+.learn-more-2:hover{
+  background-color: rgb(14, 71, 92);
+}
+.lower-box{
+  display: flex;
+  width: 100vw;
+  height: 12vw;
+}
+.image-height-2{
+  width: 32vw;
+  margin-left: 15vw;
+}
+.footer{
+  margin-top: 1vw;
+  background-color: rgb(231, 230, 230);
+  width:100vw;
+  height: 18vw;
+  display: flex;
+
+}
+.footer-text{
+  color:black;
+  text-decoration:none;
+}

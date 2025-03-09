@@ -1,0 +1,43 @@
+/* width */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+  /* input[type="date"]::-webkit-calendar-picker-indicator {
+    background: transparent;
+    color: transparent;
+    cursor: pointer;
+    display: block;
+    width: 1em;
+    height: 1em;
+    padding: 0;
+    border: none;
+    background-image: url('calendar-icon.png'); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+
+.div-1{
+  /* background: url("https://cdn.blablacar.com/kairos/assets/images/driver-c3bdd70e6a29c6af9ef1.svg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:right;
+  
+}
